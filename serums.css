@@ -1,0 +1,20 @@
+body { background-color: aquamarine;
+border-style: dotted;
+border-color:plum;
+border-radius: 10px;}
+div {background-color: aquamarine
+}
+table {
+    border-style: dotted;
+    border-color:plum;
+}
+
+section.list-box div{
+    background-color: white;
+
+}
+.list-box { background-color: rgb(175, 255, 228);}
+
+h1 {
+    font-size: medium;
+}

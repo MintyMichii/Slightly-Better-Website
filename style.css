@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+div {
+    border-style:ridge;
+    border-color:white;
+}
+
+#lower-header { 
+    background-color: aqua;
+
+}
